@@ -1,0 +1,4 @@
+nginx.png → browser output
+docker.png → docker ps
+script.png → deploy.sh run
+curl.png → curl output
