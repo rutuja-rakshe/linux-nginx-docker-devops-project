@@ -1,0 +1,34 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment variables
+.env
+
+# Python (if used later)
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Node (if ever added)
+node_modules/
+
+# Docker
+*.tar
+*.gz
+
+# Ignore screenshots folder if large (optional)
+# screenshots/
+
+# Ignore system files
+*.bak
+*.old
